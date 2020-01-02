@@ -1,0 +1,11 @@
+body {
+  padding-top: 75px;
+  padding-bottom: 75 px;
+}
+
+li {
+  cursor: pointer;
+}
+li:hover {
+  background: rgba(29, 29, 28, 0.527);
+}
